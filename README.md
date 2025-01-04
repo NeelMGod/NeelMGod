@@ -1,16 +1,14 @@
-## Hi there 👋
+# Blockchain Testnet Exploration
 
-<!--
-**NeelMGod/NeelMGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About This Repository
+This is my personal learning journey into blockchain technologies, with a focus on testnet participation and blockchain development.
 
-Here are some ideas to get you started:
+## Current Goals
+•⁠  ⁠Explore Monad testnet
+•⁠  ⁠Learn blockchain fundamentals
+•⁠  ⁠Document my learning process
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Roadmap
+•⁠  ⁠[ ] Understand blockchain basics
+•⁠  ⁠[ ] Set up development environment
+•⁠  ⁠[ ] Explore first testnet## Hi there 👋
